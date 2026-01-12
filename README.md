@@ -8,7 +8,7 @@
 📍 United States &nbsp; • &nbsp;
 📧 manikanta.rajulapati1@gmail.com &nbsp; • &nbsp;
 💼 <a href="https://www.linkedin.com">LinkedIn</a> &nbsp; • &nbsp;
-🧩 <a href="https://github.com/YOUR_GITHUB_USERNAME">GitHub</a>
+🧩 <a href="https://github.com/R-Manikanta">GitHub</a>
 </p>
 
 <hr/>
