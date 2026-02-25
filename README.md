@@ -1,7 +1,7 @@
-<h1 align="left">Hi, I'm Manikanta Rajulapati</h1>
+<h1 align="left">Hi, I'm Manikanta Rajulapati 👋</h1>
 
 <p align="left">
-AI / ML Engineer | Production AI Systems | Real-Time ML | LLM & RAG Infrastructure | MLOps | Cloud-Native ML
+🚀 AI / ML Engineer | Real-Time ML Systems | LLM & RAG | MLOps | Cloud-Native AI
 </p>
 
 <p align="left">
@@ -12,72 +12,72 @@ AI / ML Engineer | Production AI Systems | Real-Time ML | LLM & RAG Infrastructu
 
 ---
 
-## Executive Overview
+## 🧠 About Me
 
-AI/ML Engineer with 4+ years building production machine learning systems in financial services, aviation, and telecommunications.
+AI/ML Engineer with 4+ years building and operating production machine learning systems across financial services, aviation, and telecommunications.
 
-Experience operating ML at enterprise scale:
+I work on systems that run at enterprise scale:
 
-• Fraud detection processing 8,000+ transactions/second  
-• Network anomaly detection serving 100M+ customers  
-• LLM-powered systems handling 5M+ interactions/month  
-• Forecasting systems improving revenue across 400+ airline routes  
+• Fraud detection processing **8,000+ transactions per second**  
+• Network anomaly detection serving **100M+ customers**  
+• LLM-powered systems handling **5M+ monthly interactions**  
+• Revenue forecasting across **400+ global airline routes**
 
-I design ML systems where latency, scale, monitoring, and governance are as critical as model accuracy.
+My focus is production AI — where scalability, latency, monitoring, and governance matter as much as model accuracy.
 
 ---
 
-## Production Systems Impact
+## ⚙️ Production Experience
 
-### Verizon — Real-Time ML & LLM Infrastructure
+### 📡 Verizon — Real-Time ML & LLM Systems
 
-- Replaced rule-based network monitoring with LSTM autoencoder (92% pre-impact detection, 35% MTTR reduction)
+- Replaced legacy rule-based monitoring with LSTM autoencoder (92% pre-impact detection, 35% MTTR reduction)
 - Built churn prediction ensemble (AUC 0.91) with SHAP explainability
-- Architected centralized Feature Store (150+ features, sub-10ms retrieval, 12 production models)
-- Led BERT fine-tuning + RAG deployment (5M+ monthly interactions)
-- Implemented CI/CD automation via Kubeflow + ArgoCD with rapid rollback capability
-- Built drift monitoring for 20+ models (Evidently + Prometheus)
+- Designed centralized Feature Store (150+ features, sub-10ms retrieval)
+- Led BERT fine-tuning + RAG deployment (5M+ interactions/month)
+- Implemented Kubeflow + ArgoCD CI/CD pipelines with automated rollbacks
+- Built drift monitoring across 20+ production models
 
 ---
 
-### British Airways — Revenue & Operational Intelligence
+### ✈️ British Airways — Revenue & Operations Intelligence
 
-- Designed Temporal Fusion Transformer forecasting improving RASM 8.3% across 400+ routes
-- Built 6-hour delay prediction system (87% accuracy) using 15+ operational signals
-- Developed NLP pipeline processing 2M+ reviews/month (BERT + BERTopic)
-- Deployed anomaly detection reducing baggage incidents 28%
-- Maintained 99.95% uptime across 8 production ML systems
+- Designed Temporal Fusion Transformer forecasting (8.3% RASM improvement)
+- Built 6-hour delay prediction system (87% accuracy, 15+ signal integration)
+- Developed NLP pipeline processing 2M+ reviews/month
+- Deployed anomaly detection reducing baggage incidents by 28%
+- Maintained 99.95% uptime across production ML services
 
 ---
 
-### American Express — Fraud & Risk Intelligence
+### 💳 American Express — Fraud & Risk Intelligence
 
-- Core contributor to CNN-LSTM fraud system (8,000+ TPS, <50ms latency)
-- Reduced false positives 40% in live transaction scoring
-- Built Graph Neural Network on 50M+ transaction nodes for AML detection
-- Enabled 15-minute streaming retraining via Kafka
+- Core contributor to CNN-LSTM fraud system (<50ms latency, 8,000+ TPS)
+- Reduced false positives by 40%
+- Built Graph Neural Network on 50M+ transaction nodes
+- Enabled 15-minute retraining cycles via Kafka streaming
 - Reduced inference cost 38% via INT8 optimization on SageMaker
-- Implemented production data quality validation (Great Expectations)
+- Implemented data validation with Great Expectations
 
 ---
 
-## Core Capabilities
+## 🛠 Tech Stack
 
-### Real-Time ML Architecture
-Streaming pipelines · Low-latency inference · Microservices · Feature store design · Quantized models
+### Machine Learning
+TensorFlow · PyTorch · XGBoost · LightGBM · CatBoost · CNN · LSTM · Transformers · GNN · Temporal Fusion Transformer
 
-### LLM & RAG Systems
-BERT fine-tuning · LangChain · Pinecone · LoRA / QLoRA · Production LLM monitoring
+### LLM / GenAI
+BERT · LangChain · RAG Pipelines · Pinecone · FAISS · LoRA / QLoRA · Hugging Face
 
-### MLOps & Governance
-Kubeflow · SageMaker · Canary deployment · Model registry · Drift monitoring · Compliance-aware ML
+### MLOps
+Kubeflow · AWS SageMaker · MLflow · BentoML · Seldon Core · Canary Deployment · Feature Store (Feast)
 
-### Data & Cloud Infrastructure
-Kafka · PySpark · Airflow · Databricks · AWS · GCP · Azure · Kubernetes · Docker
+### Data & Infrastructure
+Kafka · PySpark · Airflow · Databricks · Delta Lake · AWS · GCP · Azure · Kubernetes · Docker
 
 ---
 
-## Certifications
+## 📜 Certifications
 
 AWS Certified Machine Learning – Specialty  
 AWS Certified Solutions Architect – Associate  
@@ -88,15 +88,15 @@ TensorFlow Developer Certificate
 
 ---
 
-## Engineering Focus
+## 🎯 Focus Areas
 
 Fraud Detection  
 Anomaly Detection  
-Graph Neural Networks  
-Time-Series Forecasting  
 LLM Infrastructure  
-Credit Risk & Compliance Systems  
+Time-Series Forecasting  
+Graph Neural Networks  
+Credit Risk & Compliance ML  
 
 ---
 
-I build production AI systems where reliability, scale, and operational rigor define success.
+If you're building production AI systems at scale — let’s connect.
