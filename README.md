@@ -1,116 +1,81 @@
-<h1 align="left">Hi, I'm Manikanta Rajulapati 👋</h1>
+<h1 align="left">Manikanta Rajulapati</h1>
 
 <p align="left">
-🚀 Machine Learning Engineer | Real-Time ML Systems | LLMs & RAG | Fraud & Anomaly Detection | Production AI at Scale
+AI / ML Engineer | Production AI Systems | Real-Time ML | LLM Infrastructure | MLOps Leadership
 </p>
 
 <p align="left">
-📍 United States &nbsp; • &nbsp;
-📧 manikanta.rajulapati1@gmail.com &nbsp; • &nbsp;
-💼 <a href="https://www.linkedin.com/in/manikanta-rajulapati">LinkedIn</a> &nbsp; • &nbsp;
-🧩 <a href="https://github.com/R-Manikanta">GitHub</a>
+Basking Ridge, NJ, USA  
+manikanta.rajulapati1@gmail.com  
+<a href="https://www.linkedin.com/in/manikanta-rajulapati">LinkedIn</a>
 </p>
 
-<hr/>
+---
 
-## 🧠 About Me
+## Executive Profile
 
-I build production-grade machine learning systems that operate at real-world scale.
+AI/ML Engineer with 4+ years designing and operating production machine learning systems across financial services, aviation, and telecommunications.
 
-Over the past 4+ years, I’ve engineered ML platforms across financial services, aviation, and telecommunications — including:
+My work consistently operates at enterprise scale:
 
-• Fraud detection systems processing 8,000+ transactions/second  
-• Network anomaly detection serving 100M+ users  
-• LLM-powered customer support systems handling 5M+ monthly interactions  
-• Time-series forecasting models improving revenue by 8.3% across 400+ routes  
+• Real-time fraud detection processing 8,000+ transactions per second  
+• Network anomaly detection protecting 100M+ customers  
+• LLM-powered support systems serving 5M+ interactions monthly  
+• Revenue forecasting across 400+ global airline routes  
 
-My focus is on translating advanced ML architectures into reliable, scalable, and business-critical systems.
-
-<hr/>
-
-## ⚙️ What I Work On
-
-### 🔹 Real-Time Machine Learning Systems
-- Low-latency fraud detection (sub-50ms inference)
-- Kafka-based streaming ML pipelines
-- FastAPI microservices for production inference
-- Feature store design (Feast + Redis)
-
-### 🔹 Large Language Models & RAG
-- Fine-tuned BERT for intent classification
-- Retrieval-Augmented Generation pipelines (LangChain + Pinecone)
-- Production LLM monitoring & deployment workflows
-
-### 🔹 Time-Series & Forecasting
-- Temporal Fusion Transformers (PyTorch)
-- Gradient Boosting (XGBoost / LightGBM)
-- Multi-source operational signal integration
-
-### 🔹 Graph ML & Anomaly Detection
-- Graph Neural Networks (PyTorch Geometric)
-- Transaction network modeling (50M+ nodes)
-- LSTM autoencoders for telemetry anomaly detection
-
-<hr/>
-
-## 🛠 Core Tech Stack
-
-### Languages
-Python · SQL · Java · Scala
-
-### ML / DL
-TensorFlow · PyTorch · XGBoost · LightGBM · CNN · LSTM · Transformers · GNN · Autoencoders
-
-### LLM / GenAI
-BERT · GPT · Hugging Face · LangChain · RAG · Pinecone · FAISS
-
-### MLOps & Deployment
-Kubeflow · AWS SageMaker · ArgoCD · Docker · Kubernetes · FastAPI · Kafka · MLflow
-
-### Cloud
-AWS · GCP · Azure · Databricks
-
-### Monitoring
-Evidently AI · Prometheus · Grafana · Great Expectations
-
-<hr/>
-
-## 🧩 Selected Projects
-
-### 🔍 Multi-Modal DeepFake Detection System
-- Built a multi-class detection system for face-swapped videos and AI-generated speech
-- CNN-based video model (XceptionNet)
-- Spectrogram-based audio model (ResNet / VGGish)
-- Fusion architecture for Real | Fake-Video | Fake-Audio | Fake-Both
-- Evaluated with ROC-AUC, F1-score, cross-dataset robustness testing
+I specialize in building high-reliability ML platforms that integrate modeling, infrastructure, monitoring, and governance into cohesive production systems.
 
 ---
 
-### 📡 Real-Time Fraud Scoring API (System Design)
-- CNN-LSTM ensemble for fraud detection
-- 8,000+ TPS at sub-50ms latency
-- Kafka streaming + SageMaker deployment
-- INT8 quantization reducing inference cost 38%
+## Production Impact
+
+### Verizon — Real-Time Network & LLM Systems
+- Replaced rule-based anomaly detection with LSTM autoencoder achieving 92% pre-impact detection and 35% MTTR reduction  
+- Built churn prediction ensemble (AUC 0.91) with SHAP explainability  
+- Architected centralized feature store (150+ features, sub-10ms retrieval)  
+- Led LLM initiative (BERT + RAG) deployed at 5M+ interactions/month  
+- Implemented full CI/CD automation (Kubeflow + ArgoCD) with 3-minute rollback  
+- Built drift monitoring for 20+ production models  
+
+### British Airways — Revenue & Operations Intelligence
+- Designed Temporal Fusion Transformer forecasting system improving RASM 8.3% across 400+ routes  
+- Built 6-hour delay prediction platform (87% accuracy) integrating 15+ operational signals  
+- Developed NLP intelligence pipeline processing 2M+ reviews/month  
+- Delivered real-time IoT anomaly detection reducing mishandled baggage 28%  
+
+### American Express — Fraud & Risk Intelligence
+- Core contributor to real-time fraud system (<50ms latency, 8,000+ TPS) reducing false positives 40%  
+- Built Graph Neural Network modeling 50M+ node transaction networks  
+- Implemented 15-minute retraining cycles via Kafka streaming  
+- Reduced inference cost 38% via INT8 optimization on SageMaker  
 
 ---
 
-### 🤖 LLM-Powered Customer Support System
-- Fine-tuned BERT for multi-class intent classification
-- RAG pipeline over internal knowledge base
-- 5M+ interactions/month
-- Reduced average handle time by 22%
+## Platform Capabilities
+
+### Real-Time ML Architecture
+Low-latency inference · Streaming retraining · High-throughput microservices · Feature store design
+
+### LLM & RAG Systems
+BERT fine-tuning · LangChain · Pinecone · LoRA / QLoRA · Production LLM deployment
+
+### MLOps & Governance
+Kubeflow · SageMaker · Canary deployments · Drift monitoring · Model registry · Compliance-aware ML
+
+### Data & Infrastructure
+Kafka · PySpark · Airflow · Databricks · AWS / GCP / Azure · Kubernetes · Docker
 
 ---
 
-## 🎓 Education
+## Certifications
 
-🎓 M.S. Computer Science — University of Central Missouri  
-🎓 B.Tech Computer Science — India  
+AWS Certified Machine Learning – Specialty  
+AWS Certified Solutions Architect – Associate  
+Google Professional Machine Learning Engineer  
+Databricks Certified ML Professional  
+Certified Kubernetes Administrator (CKA)  
+TensorFlow Developer Certificate  
 
 ---
 
-## 📫 Let’s Connect
-
-If you're building real-world AI systems where scale, latency, reliability, and engineering discipline matter — I’d love to collaborate.
-
-,
+I build AI systems where scale, latency, reliability, and governance matter as much as model performance.
