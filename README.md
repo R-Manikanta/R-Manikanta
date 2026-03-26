@@ -86,7 +86,7 @@ AWS • Azure • GCP • SageMaker • Azure ML
 
 ## 🌐 Connect With Me
 
-📧 manikanatrajulapati21@gmail.com  
+📧 manikantarajulapati21@gmail.com  
 💼 LinkedIn: https://www.linkedin.com/in/manikanta-rajulapati/
 
 ---
